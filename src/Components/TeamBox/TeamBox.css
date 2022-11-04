@@ -1,0 +1,70 @@
+.team-box-content {
+    width: 220px;
+}
+
+.team-box-content .person-img {
+    width: 220px;
+    height: 220px;
+    position: relative;
+}
+
+.team-box-content h4 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 110%;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 43px;
+    margin-bottom: 15px;
+}
+.linkdlin{
+    width: 40px;
+height: 40px;
+position: absolute;
+left: 162px;
+top: 162px;
+}
+
+.linkdlin:hover{
+background-image: url("../../Images//Linkedinhover.png");
+}
+
+.team-box-content h5 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0.05em;
+    color: #825AFF;
+
+}
+
+.team-box-content p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    opacity: 0.6;
+    margin-top: 20px;
+}
+
+
+@media all and (max-width:668px) {
+    .team-box-content p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .team-box-content h5 {
+        font-size: 14px;
+    }
+
+    .team-box-content h4 {
+        font-size: 22px;
+        margin-top: 29px;
+        margin-bottom: 10px;
+    }
+}

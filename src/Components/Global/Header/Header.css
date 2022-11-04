@@ -1,0 +1,83 @@
+
+nav{
+    padding: 40px 0;
+}
+nav .logo{
+    width: 100px;
+height: 20px;
+}
+
+#dropdown-basic{
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+
+.dropdown-menu.show{
+    margin-left: -30px;
+    margin-top: 30px;
+    background-color: transparent;
+}
+.dropdown-menu.show ul{
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    margin-right: 50%;
+}
+
+.dropdown-menu.show ul li{
+    margin-bottom: 20px;
+    list-style-type: none;
+}
+
+.dropdown-menu.show ul li a{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%; 
+    text-align: right;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;  
+    color: #FFFFFF;
+    text-decoration: none;
+    
+}
+
+.dropdown-menu.show ul li a:hover{
+    color: #825AFF;
+}
+
+.dropdown-menu.show ul li:hover{
+list-style: disc;
+color: #825AFF;
+}
+
+
+@media all and (max-width:768px) {
+    .dropdown-menu.show{
+        width: 100px;
+        margin: 0;
+        padding: 0;
+    }
+    .dropdown-menu.show ul{
+        margin-top: 0px;
+        background-color: transparent;
+        text-align: right;
+        margin: 0;
+        padding: 0;
+        margin-right: 8%;
+        background-color: black;
+    }
+    
+    .dropdown-menu.show ul li{
+        margin-bottom: 5px;
+        list-style-type: none;
+    }
+    
+    .dropdown-menu.show ul li a{
+        font-size: 14px;
+         
+     
+        
+    }
+}

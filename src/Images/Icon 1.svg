@@ -1,0 +1,26 @@
+<svg width="156" height="115" viewBox="0 0 156 115" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_1013)">
+<path d="M64.9655 62.1029L54.2932 40.1491L64.9655 18.1954L75.6312 40.1491L64.9655 62.1029Z" fill="#FC440F"/>
+<path d="M144.74 62.1031H83.4166L72.7509 40.1494H134.074L144.74 62.1031Z" fill="white"/>
+<path d="M83.4166 62.1029L72.7509 40.1491L83.4166 18.1954H144.74V62.1029H83.4166Z" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M144.74 62.1029L134.074 40.1491L144.74 18.1954L155.412 40.1491L144.74 62.1029Z" fill="#0A0B0D" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M72.7509 40.1494H134.074" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M96.2965 97.1061H36.2535L25.5878 75.1523H85.6308L96.2965 97.1061Z" fill="#825AFF"/>
+<path d="M96.2965 53.7381H36.2535L25.5878 75.6918H85.6308L96.2965 53.7381Z" fill="#0A0B0D"/>
+<path d="M36.2535 97.1058L25.5878 75.1521L36.2535 53.1984H96.2965V97.1058H36.2535Z" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M96.2965 97.1058L85.6307 75.1521L96.2965 53.1984L106.969 75.1521L96.2965 97.1058Z" fill="#0A0B0D" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M111.456 97.1058L100.784 75.1521L111.456 53.1984L122.122 75.1521L111.456 97.1058Z" fill="#825AFF"/>
+<path d="M25.5878 75.1523H85.6308" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path opacity="0.3" d="M60.4343 7.23523H86.2072" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path opacity="0.3" d="M94.0383 7.23523H103.796" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M70.7588 0.654907H80.5101" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M47.9537 85.9813H22.1874" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path opacity="0.3" d="M85.1334 106.402H66.3401" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M14.3496 85.9813H4.59827" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+</g>
+<defs>
+<clipPath id="clip0_1_1013">
+<rect width="155.697" height="115" fill="white" transform="translate(0.303223)"/>
+</clipPath>
+</defs>
+</svg>

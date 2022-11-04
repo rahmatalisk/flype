@@ -1,0 +1,15 @@
+<svg width="151" height="120" viewBox="0 0 151 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M99 108.504L75 120L51 108.504L75 97L99 108.504Z" fill="#825AFF"/>
+<path d="M98 92.5891L75 104L52 92.5891V24H98V92.5891Z" fill="#0A0B0D" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M98 24.4965L75 36L52 24.4965L75 13L98 24.4965Z" fill="#0A0B0D" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M75 104V36" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M98 24V92.5891L75 104V35.4179L98 24Z" fill="white"/>
+<path d="M126 29L126 44" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path opacity="0.3" d="M115 11L115 21" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path opacity="0.3" d="M33 24L33 48" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path opacity="0.3" d="M121 66L121 91" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path opacity="0.3" d="M22 49L22 58" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M28 90L28 104" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M110.316 34C133.347 38.4885 149 47.2917 149 57.4172C149 72.0985 116.093 84 75.5 84C34.9071 84 2 72.0985 2 57.4172C2 47.2917 17.6528 38.4885 40.6842 34" stroke="white" stroke-width="3"/>
+<path d="M98 11.4965L75 23L52 11.4965L75 0L98 11.4965Z" fill="#FC440F"/>
+</svg>

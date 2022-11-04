@@ -1,0 +1,164 @@
+.footer {
+    border-top: 1px solid white;
+    padding-top: 112px;
+    padding-bottom: 95px;
+
+}
+
+
+
+.footer-top p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    opacity: 0.6;
+    margin-top: 34px;
+}
+
+.footer-top span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.footer-top-right-left h6 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+    opacity: 0.6;
+    margin-bottom: 28px;
+}
+
+.footer-top-right-left a {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 100%;
+    display: block;
+    letter-spacing: 0.05em;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+
+.footer-bottom {
+    margin-top: 82px;
+}
+
+.footer-bottom h6 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+    opacity: 0.6;
+    margin-bottom: 27px;
+}
+
+.footer-bottom img {
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+    margin-bottom: 33px;
+}
+
+.footer-bottom img:hover {
+    background: #825AFF;
+}
+
+.footer-bottom a {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.2px;
+    text-decoration-line: underline;
+    margin-right: 20px;
+    color: #FFFFFF;
+
+}
+
+.footer-bottom p {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+
+.footer-border-box {
+    border: 1px solid #825AFF;
+    padding: 0px 40px;
+    position: relative;
+}
+
+.footer-border-box .icon1 {
+    width: 29px;
+    height: 23px;
+    margin-right: 10px;
+}
+
+.footer-border-box .icon2 {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-top: 5px;
+}
+
+.footer-border-box h3 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #825AFF;
+    margin-bottom: 0;
+}
+
+@media all and (max-width:768px) {
+    .footer-top {
+        gap: 75px;
+    }
+
+    .footer-top p,
+    .footer-top span {
+        font-size: 14px;
+    }
+
+    .footer-bottom {
+        flex-direction: column-reverse;
+    }
+.footer{
+    padding-bottom: 0;
+}
+    .footer-bottom img {
+        width: 50px;
+        height: 50px;
+        margin-right: 8px;
+    }
+
+    .footer-bottom p {
+        font-size: 14px;
+        line-height: 20px;
+
+    }
+
+    .footer-bottom h6 {
+        margin-top: 52px;
+    }
+}

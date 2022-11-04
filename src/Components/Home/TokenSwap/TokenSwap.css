@@ -1,0 +1,60 @@
+
+.token-swap{
+    padding-bottom: 296px;
+}
+
+.token-swap-left h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 100%;
+    color: #FFFFFF;
+}
+
+.token-swap-left>p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 40px 0;
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+
+.token-swap {
+    background-image: url("../../../Images/Decor\ \(4\).png");
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.token-swap-right{
+    margin: 0;
+}
+
+
+
+@media all and (max-width:668px) {
+    .token-swap {
+        background-image: none;
+    }
+
+    .token-swap-left h2 {
+        font-size: 24px;
+    }
+
+    .token-swap-left>p {
+        font-size: 14px;
+        line-height: 18px;
+        margin: 30px 0;
+    }
+    .token-swap-right{
+        padding: 10px;
+        margin-bottom: 70px;
+    }
+    .token-swap-content{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .token-swap{
+        padding-bottom: 180px;
+    }
+}

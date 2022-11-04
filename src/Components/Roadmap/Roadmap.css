@@ -1,0 +1,115 @@
+.roadmap h6 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+
+.roadmap h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 100%;
+    color: #FFFFFF;
+}
+
+.road-map-period {
+    padding: 0 120px;
+    margin-top: 45px;
+    padding-bottom: 312px;
+    gap: 24px;
+}
+
+.period-item-1 {
+    background: rgba(255, 255, 255, 0.1);
+    max-width: 384px;
+    padding: 29px 48px 27px 48px;
+    margin-bottom: 10px;
+}
+
+.period-item-1 h5 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    color: #FC440F;
+}
+
+.period-item-1 p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.period-item-2 {
+    background: #825AFF;
+    max-width: 384px;
+    padding: 29px 48px 27px 48px;
+    margin-bottom: 10px;
+}
+
+.period-item-2 h5 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    color: white;
+}
+
+.period-item-2 p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.period-item-3 {
+    background: rgba(255, 255, 255, 0.1);
+    max-width: 384px;
+    padding: 29px 48px 27px 48px;
+    margin-bottom: 10px;
+}
+
+.period-item-3 h5 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    color: #825AFF;
+}
+
+.period-item-3 p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+
+
+
+@media all and (max-width:768px) {
+    .roadmap h6 {
+        font-size: 16px;
+    }
+
+    .roadmap h2 {
+        font-size: 18px;
+        margin-bottom: 23px;
+    }
+
+    .road-map-period {
+        padding: 0 30px;
+        margin-top: 30px;
+        padding-bottom: 144px;
+    }
+
+    .period-item-1 p, .period-item-2 p, .period-item-3 p{
+        font-size: 14px;
+    }
+}
